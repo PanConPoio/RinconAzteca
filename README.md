@@ -156,9 +156,3 @@ El archivo `BASE/ra.sql` contiene el esquema completo. Las tablas son:
 - **Datos de pago:** no almacenar datos de tarjetas sin un sistema PCI-DSS certificado.
 
 ---
-
-## Redes Sociales
-
-- [Facebook](https://www.facebook.com/profile.php?id=61550850162682)
-- [Twitter / X](https://twitter.com/RinconAzteca23)
-- [Instagram](https://instagram.com/rincon_.azteca)
